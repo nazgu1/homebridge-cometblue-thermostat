@@ -1,0 +1,22 @@
+{
+  "bridge": {
+    "name": "Homebridge",
+    "username": "11:22:3D:E3:CE:30",
+    "port": 51826,
+    "pin": "011-33-444"
+  },
+  
+  "description": "",
+
+  "accessories": [
+    {
+      "accessory": "CometBlue",
+      "name": "Saloon Thermostat",
+      "address": "11:22:33:44:55:66",
+      "pin": "000000"
+    }
+  ],
+
+  "platforms": [
+  ]
+}
